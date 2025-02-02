@@ -18,4 +18,4 @@ backend: php<br>
 Database: SQL<br>
 <h4>Implementation: <br></h4>
 XAMPP<br>
-<a href="https://drive.google.com/drive/folders/17luflhJegVXj9IxnK58nvuCmLaF7CYJF"> view screen recordings</a>a>
+<a href="https://drive.google.com/drive/folders/17luflhJegVXj9IxnK58nvuCmLaF7CYJF"> view screen recordings</a>
